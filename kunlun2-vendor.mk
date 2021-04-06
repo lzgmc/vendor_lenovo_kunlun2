@@ -13,6 +13,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/kunlun2/proprietary/etc/permissions/qti_permissions.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/permissions/qti_permissions.xml \
     vendor/lenovo/kunlun2/proprietary/etc/sysconfig/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/qti_whitelist.xml \
     vendor/lenovo/kunlun2/proprietary/etc/wfdconfigsink.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/wfdconfigsink.xml \
+    vendor/lenovo/kunlun2/proprietary/etc/qdcm_calib_data_ft8719_tm_fhd_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/qdcm_calib_data_ft8719_tm_fhd_video_mode_dsi_panel.xml \
     vendor/lenovo/kunlun2/proprietary/lib/com.qualcomm.qti.wifidisplayhal@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/com.qualcomm.qti.wifidisplayhal@1.0.so \
     vendor/lenovo/kunlun2/proprietary/lib/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFileMux.so \
     vendor/lenovo/kunlun2/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
